@@ -1,0 +1,111 @@
+num_char_turk_mean,num_char_turk_max,num_char_en,num_turks,type,google trans,Borrowing,Turkish_word_1,Turkish_word_2,Turkish_word_3,Turkish_word_4,Turkish_word_5,Turkish_word_6,x,freq_borrow,freq_turk_1,freq_turk_2,freq_turk_3,freq_turk_4,freq_turk_sum,freq_total,en_perc
+11,11,9,1,noun,Animation,Animasyon,Canlandırma,,,,,,,36291,9671,,,,9671,45962,0.7895870502
+12,12,8,1,noun,Animator,Animatör,Canlandırıcı,,,,,,,1257,2915,,,,2915,4172,0.3012943432
+11,11,7,1,noun,Arranger,Aranjör,Düzenlemeci,,,,,,,1699,152,,,,152,1851,0.9178822258
+5,5,7,2,noun,argument,Argüman,Kanıt,Delil,,,,,,10549,45556,92990,,,138546,149095,0.0707535464
+8.25,9,7,4,adj,Aggressive,Agresif,Saldırgan,Mütecaviz,Girişken,Yırtıcı,,,,26109,44501,1376,3519,11010,60406,86515,0.3017858175
+8,8,5,1,noun,Aroma,Aroma,Hoş Koku,,,,,,,,,,,,0,0,#DIV/0!
+10,10,8,1,adj,Aromatic,Aromatik,Hoş Kokulu,,,,,,,,,,,,0,0,#DIV/0!
+13,13,9,1,noun,asparagas,Asparagas,Şişirme Haber,,,,,,,,,,,,0,0,#DIV/0!
+0.3636363636,4,8,1,adj,Avant-garde,Avangart,Öncü,,,,,,,987,73060,,,,73060,74047,0.0133293719
+5,5,7,1,noun,Barrier,Bariyer,Engel,,,,,,,6820,287100,,,,287100,293920,0.0232035928
+9,9,11,1,noun,Best-Seller,Best-Seller,Çoksatart,,,,,,,26,0,,,,0,26,1
+13,14,8,2,noun,billboard,Bilboard,Duyuru Tahtası,İlan Tahtası,,,,,,,,,,,0,0,#DIV/0!
+11,11,7,1,noun,Blender,Blender,Karıştırıcı,,,,,,,2068,7379,,,,7379,9447,0.2189054726
+7,9,8,2,adj,dribbling,Dripling,Top Sürme,Sürüş,,,,,,906,,27941,,,27941,28847,0.0314070787
+8.5,10,6,2,noun,Editor,Editör,Yayımlayan,Yayımcı,,,,,,16514,5997,1077,,,7074,23588,0.7001017467
+7.5,8,5,2,noun,Effect,Efekt,Sesleme,Etkileme,,,,,,10237,43,12977,,,13020,23257,0.4401685514
+18.5,22,8,2,adj,Ecological,Ekolojik,Çevreyle İlgili,Çevre Bilimiyle İlgili,,,,,,,,,,,0,0,#DIV/0!
+5.25,6,9,4,adj,Eccentric,Eksantrik,Uçrak,Tuhaf,Garip,Acayip,,,,2330,10,88626,162340,44709,295685,298015,0.0078183984
+7,7,6,1,adj,fictive,Fiktif,Kurmaca,,,,,,,966,7619,,,,7619,8585,0.1125218404
+4,4,8,1,adj,Financial,Finansal,Mali,,,,,,,115194,218027,,,,218027,333221,0.3456985004
+6.5,8,6,2,noun,Format,Format,Boyut,Boyutlar,,,,,,22219,66912,12162,,,79074,101293,0.2193537559
+10,13,6,2,adj,Global,Global,Küresel,Dünya Çapında,,,,,,76943,269959,,,,269959,346902,0.2218003932
+6,7,7,2,noun,Hooligan,Holigan,Serseri,Hayta,,,,,,1031,10550,759,,,11309,12340,0.0835494327
+5.5,8,4,2,noun,Idol,İdol,Put,Mini Put,,,,,,3751,14954,,,,14954,18705,0.2005346164
+7,7,11,1,adj,illustrative,İllüstratif,Bezekli,,,,,,,90,153,,,,153,243,0.3703703704
+7.5,8,10,2,noun,Initiative,İnisiyatif,Öncelik,Üstünlük,,,,,,17092,67552,46801,,,114353,131445,0.1300315721
+11,11,7,1,noun,insider,İnsider,İç Hissedar,,,,,,,,,,,,0,0,#DIV/0!
+13,13,6,1,noun,Jacuzzi,Jakuzi,Sağlık Havuzu,,,,,,,,,,,,0,0,#DIV/0!
+10,10,9,1,adj,Qualitative,Kalitatif,Niceleyici,,,,,,,1292,52,,,,52,1344,0.9613095238
+8,8,6,1,noun,Campus,Kampüs,Yerleşke,,,,,,,10499,2744,,,,2744,13243,0.7927961942
+8,8,8,1,noun,Camouflage,Kamuflaj,Gizlenme,,,,,,,3671,1278,,,,1278,4949,0.7417660133
+8,10,7,2,noun,Career,Kariyer,Meslek,Uzmanlaşma,,,,,,66976,349167,4368,,,353535,420511,0.1592728847
+18,18,7,1,noun,Charisma,Karizma,Büyüleyici Özellik,,,,,,,,,,,,0,0,#DIV/0!
+11,11,6,1,noun,Cockpit,Kokpit,Pilot Köşkü,,,,,,,,,,,,0,0,#DIV/0!
+9,9,10,2,adj,competitive,Kompetitif,Yarışımcı,Rekabetçi,,,,,,99,9,27524,,,27533,27632,0.0035828025
+3,3,9,1,noun,Condition,Kondisyon,Erk,,,,,,,10777,6723,,,,6723,17500,0.6158285714
+11,11,11,1,noun,conditioner,Kondisyoner,Geliştirici,,,,,,,1165,15714,,,,15714,16879,0.0690206766
+6,6,7,1,noun,concept,Konsept,Kavram,,,,,,,29021,106948,,,,106948,135969,0.2134383573
+11,11,9,1,noun,Container,Konteyner,Taşımacılık,,,,,,,11466,25644,,,,25644,37110,0.3089733226
+6.666666667,9,8,3,noun,Contrast,Kontrast,Zıtlık,Karşıtlık,Tezat,,,,,11419,4287,8653,11395,,24335,35754,0.3193768529
+5.666666667,8,11,3,adj,Contrast,Kontrastlık,Zıt,Karşıt,Tezatlık,,,,,,,,,,0,0,#DIV/0!
+2,2,3,1,noun,Jeans,Kot,İm,,,,,,,18630,65062,,,,65062,83692,0.2226019213
+4,4,4,1,noun,Quota,Kota,Ülüş,,,,,,,16960,84,,,,84,17044,0.9950715794
+5.5,6,6,2,noun,Criterion,Kriter,Ölçüt,Kıstas,,,,,,20849,9244,5597,,,14841,35690,0.5841692351
+9,9,7,1,noun,curator,Küratör,Kollayıcı,,,,,,,1327,960,,,,960,2287,0.5802361172
+8,8,8,2,noun,Labyrinth,Labirent,Dolambaç,Karmaşık,,,,,,3712,152,119055,,,119207,122919,0.0301987488
+13,19,6,2,noun,Laptop,Laptop,Dizüstü,Dizüstü Bilgisayarı,,,,,,17892,39355,,,,39355,57247,0.3125403951
+8.5,13,5,2,noun,Liquid,Likit,Sıvı,Nakit Akışkan,,,,,,6563,124595,,,,124595,131158,0.0500388844
+8,8,9,1,noun,Literature,Literatür,Edebiyat,,,,,,,6778,130919,,,,130919,137697,0.0492240209
+5,5,4,1,noun,Lobby,Lobi,Dalan,,,,,,,17521,6207,,,,6207,23728,0.7384103169
+7,7,8,1,noun,Logistics,Lojistik,Donanım,,,,,,,49281,61633,,,,61633,110914,0.4443172187
+7.4,12,5,5,noun,Local,Lokal,Yerel,Mahalli,Ev,Eğlence Evi,Eğlence Yeri,,,33712,479567,34746,715454,,1229767,1263479,0.0266818839
+10,10,3,1,noun,Match,Maç,Karşilaşma,,,,,,,398598,13,,,,13,398611,0.9999673868
+8,13,8,5,noun,Maximum,Maksimum,Doruk,Doruk Noktası,En Son,E N Üst,En Yüksek,,,73541,15074,,,,15074,88615,0.8298933589
+7.5,8,9,2,noun,mentality,Mantalite,Zihniyet,Anlayış,,,,,,2172,59447,118163,,,177610,179782,0.0120812985
+9,9,7,1,noun,Marathon,Maraton,Uzun Koşu,,,,,,,,,,,,0,0,#DIV/0!
+13,13,6,1,noun,Market,Market,Satış Merkezi,,,,,,,,,,,,0,0,#DIV/0!
+16,17,5,2,noun,Media,Medya,İletişim Araçlari,İletişim Ortami,,,,,,,,,,,0,0,#DIV/0!
+5.25,7,4,4,adj,Mega,Mega,Büyük,Dev,Devasa,Muazzam,,,,,,,,,0,0,#DIV/0!
+13,13,4,1,noun,Menu,Menü,Yemek Listesi,,,,,,,,,,,,0,0,#DIV/0!
+5,5,7,1,noun,metaphor,Metafor,Mecaz,,,,,,,3967,5491,,,,5491,9458,0.419433284
+7,7,6,1,noun,Feature,Metraj,Uzunluk,,,,,,,6080,9500,,,,9500,15580,0.3902439024
+16,16,5,1,noun,Metro,Metro,Yer Altı (Treni),,,,,,,,,,,,0,0,#DIV/0!
+7,7,6,1,noun,Mixer,Mikser,Çırpıcı,,,,,,,3397,706,,,,706,4103,0.8279307824
+6,6,10,1,noun,Minimarket,Minimarket,Bakkal,,,,,,,,,,,,0,0,#DIV/0!
+8,12,6,2,noun,Mission,Misyon,(Özel) Görev,Amaç,,,,,,29619,836310,,,,836310,865929,0.0342048829
+12.5,14,7,2,noun,Monitor,Monitör,Yetiştirici,Mini Gösterici,,,,,,12573,2250,,,,2250,14823,0.8482088646
+5,5,7,1,noun,Monopoli,Monopol,Tekel,,,,,,,941,18781,,,,18781,19722,0.0477132137
+7.333333333,11,8,3,noun,Nostalgia,Nostalji,Sıla Özlemi,Özlem,Hasret,,,,,,,,,,0,0,#DIV/0!
+7,7,9,1,adj,Nostalgic,Nostaljik,Özlemli,,,,,,,12142,294,,,,294,12436,0.9763589579
+7.5,10,5,2,noun,Nuance,Nüans,Çalar,İnce Ayrım,,,,,,2319,28039,,,,28039,30358,0.0763884314
+8,8,7,1,adj,Obsessive,Obsesif,Takınçlı,,,,,,,3122,6,,,,6,3128,0.9980818414
+12.33333333,13,7,3,noun,Option,Opsiyon,Seçme Yetkisi,Ödeme Süresi,Seçme Süresi,,,,,,,,,,0,0,#DIV/0!
+8,8,7,1,adj,Optimal,Optimal,En Uygun,,,,,,,,,,,,0,0,#DIV/0!
+9,11,9,2,adj,overnight,Overnight,Gecelik,Bir Gecelik,,,,,,643,14834,,,,14834,15477,0.0415455192
+8,9,8,3,noun,Paradox,Paradoks,Çelişki,Aykırılık,Saçmalık,,,,,5464,43925,20242,17087,,81254,86718,0.0630088332
+4.666666667,7,7,3,noun,Partner,Partner,Eş,Ortak,Arkadaş,,,,,13176,150011,839611,230728,,1220350,1233526,0.0106815746
+11,11,7,1,noun,Penalty,Penaltı,Ceza Vuruşu,,,,,,,,,,,,0,0,#DIV/0!
+9.5,11,10,2,noun,Perspective,Perspektif,Bakış Açısı,Derinlik,,,,,,,,,,,0,0,#DIV/0!
+8,8,8,1,noun,Pessimist,Pesimist,Kötümser,,,,,,,902,7275,,,,7275,8177,0.1103094044
+11,11,8,1,noun,Pessimism,Pesimizm,Kötümserlik,,,,,,,,,,,,0,0,#DIV/0!
+8,8,6,1,noun,Podium,Podyum,Çıkmalık,,,,,,,2618,16,,,,16,2634,0.9939255885
+10,12,7,3,noun,portfolio,Portföy,Cüzdan,Para Cüzdanı,Para Çantası,,,,,11119,7508,,,,7508,18627,0.5969291888
+15,15,9,1,adj,Pragmatic,Pragmatik,Faydacı Yararcı,,,,,,,,,,,,0,0,#DIV/0!
+5,5,4,1,noun,Press,Pres,Baskı,,,,,,,10139,344742,,,,344742,354881,0.0285701404
+6,6,7,1,noun,Printer,Printer,Yazıcı,,,,,,,2209,19982,,,,19982,22191,0.0995448605
+5,5,11,1,noun,Production,Prodüksiyon,Yapım,,,,,,,8605,102880,,,,102880,111485,0.0771852716
+5,5,8,1,noun,Procedure,Prosedür,İzlek,,,,,,,13113,1338,,,,1338,14451,0.9074112518
+5,5,6,1,noun,Process,Proses,Süreç,,,,,,,8994,259022,,,,259022,268016,0.0335576981
+6,6,6,1,noun,Puzzle,Puzzle,Yapboz,,,,,,,5437,1991,,,,1991,7428,0.7319601508
+6.333333333,8,7,3,adj,Radical,Radikal,Köklü,Kökten,Köktenci,,,,,79303,92060,27702,2934,,122696,201999,0.3925910524
+13,13,6,1,noun,Ritual,Ritüel,Ayinle İlgili,,,,,,,,,,,,0,0,#DIV/0!
+17,17,6,1,noun,Revenge,Rövanş,İkinci Karşilaşma,,,,,,,,,,,,0,0,#DIV/0!
+13,13,6,1,noun,Center,Santra,Orta Yuvarlak,,,,,,,,,,,,0,0,#DIV/0!
+8.5,10,8,2,adj,Sympathetic,Sempatik,Sevimli,Cana Yakın,,,,,,24603,57330,,,,57330,81933,0.3002819377
+7.666666667,9,11,3,adj,Sipekülatif,Sipekülatif,Havadan,Açıktan,Düşüntülü,,,,,4,32150,23205,4,,55359,55363,7.225041996E-05
+7.666666667,9,9,3,adj,Sophisticated,Sofistike,Yanıltıcı,Karmaşık,Bilmiş,,,,,9619,18743,119055,13941,,151739,161358,0.0596127865
+7,7,8,1,noun,Software,Software,Yazılım,,,,,,,5892,167937,,,,167937,173829,0.0338953799
+7.333333333,10,6,3,adj,stable,Stabil,Oturmuş,İstikrarli,Sabit,,,,,11946,48949,672,209609,,259230,271176,0.044052571
+6,6,4,1,noun,Star,Star,Yıldız,,,,,,,17928,160045,,,,160045,177973,0.1007343811
+5,5,5,1,noun,Start,Start,Başla,,,,,,,43445,27350,,,,27350,70795,0.613673282
+7,8,6,2,adj,Sterile,Steril,Arınık,Verimsiz,,,,,,12079,258,13280,,,13538,25617,0.4715228169
+9,9,5,1,noun,Stress,Stres,Gerginlik,,,,,,,89798,46784,,,,46784,136582,0.6574658447
+6,6,7,1,adj,Stressful,Stresli,Gergin,,,,,,,18016,38911,,,,38911,56927,0.3164754861
+6,6,6,1,noun,Therapy,Terapi,Tedavi,,,,,,,28045,561746,,,,561746,589791,0.0475507426
+13,13,8,1,noun,Therapist,Terapist,Tedavi Uzmanı,,,,,,,,,,,,0,0,#DIV/0!
+6,6,7,1,adj,Topless,Topless,Üstsüz,,,,,,,74,1846,,,,1846,1920,0.0385416667
+6.666666667,8,6,3,noun,Trauma,Travma,Vuruk,İncinme,Sarsıntı,,,,,23801,302,1189,11419,,12910,36711,0.6483342867
+6,6,6,1,adj,Utopian,Ütopik,Hayali,,,,,,,8364,70415,,,,70415,78779,0.1061704261
+7.5,10,6,2,noun,Utopia,Ütopya,Hayal,Hayal Ülke,,,,,,7471,341596,,,,341596,349067,0.021402768
